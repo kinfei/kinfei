@@ -15,7 +15,7 @@
 - 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source... 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/kinfei/icons/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/https://github.com/kinfei?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href="https://github.com/kinfei?tab=repositories&q=&type=&language=javascript&sort="> <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/https://github.com/kinfei?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> 
 <a href= https://github.com/https://github.com/kinfei?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/https://github.com/kinfei?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
