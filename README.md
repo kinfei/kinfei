@@ -35,7 +35,7 @@
 
 <h2> My GitHub Stats</h2>
 <a href="https://github.com/kinfei/kinfei">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinfei&theme=compact&layout=compact&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinfei&layout=compact&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
 </a>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/kinfei/icons/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
