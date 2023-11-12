@@ -28,9 +28,9 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/kinfei/icons/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/kin-fei-lee-4b359163/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://portfolio-blog-phi-one.vercel.app'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/https://github.com/kinfei'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/kin-fei-lee-4b359163/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/kinfei/icons/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://portfolio-blog-phi-one.vercel.app'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/kinfei/icons/main/icons/portfolio.png"/></a> 
+<a href = 'https://github.com/kinfei'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/kinfei/icons/main/icons/github.svg"/></a> 
 
 
 <h2> My GitHub Stats</h2>
